@@ -1,4 +1,4 @@
-![logo](https://github.com/GauravPandey123webdeveloper/GauravPandey123webdeveloper/blob/main/Banner.png)
+![logo](https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif)
 <h1 align="center">Hi 👋, This is Gaurav Pandey</h1>
 <h3 align="center">Proficient MERN Stack Developer</h3>
 <img
