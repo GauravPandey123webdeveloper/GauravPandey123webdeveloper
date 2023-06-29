@@ -1,10 +1,5 @@
-<img
-  src="https://www.ambientinfotech.com/wp-content/uploads/2023/01/NODEJS_CIRCLE.gif"
-  alt=""
-  align="right"
-  width="100%"
-  height="20%"
-  />
+![logo]("")
+<h1 align="center">Hi 👋, This is Gaurav Pandey</h1>
 <h3 align="center">Proficient MERN Stack Developer</h3>
 <img
   src="https://www.ambientinfotech.com/wp-content/uploads/2023/01/NODEJS_CIRCLE.gif"
