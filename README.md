@@ -1,5 +1,5 @@
 ![logo](https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif)
-<h1 align="center">Hi 👋, This is Gaurav Pandey</h1>
+<h1 align="center">Hi 👋, I'M Gaurav Pandey</h1>
 <h3 align="center">Proficient MERN Stack Developer</h3>
 <img
   src="https://www.ambientinfotech.com/wp-content/uploads/2023/01/NODEJS_CIRCLE.gif"
