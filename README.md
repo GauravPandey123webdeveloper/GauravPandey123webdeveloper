@@ -1,4 +1,4 @@
-![logo]("")
+![logo]("https://github.com/GauravPandey123webdeveloper/GauravPandey123webdeveloper/blob/main/Banner.png")
 <h1 align="center">Hi 👋, This is Gaurav Pandey</h1>
 <h3 align="center">Proficient MERN Stack Developer</h3>
 <img
