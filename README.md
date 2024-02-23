@@ -21,8 +21,7 @@ management](https://github.com/GauravPandey123webdeveloper/products-Management)
 - 💬 Talks about **Nodejs, JavaScript, mongodb, html,css**
 - 📫 How to reach me
 **gp0216716@gmail.com**
-- 📄 Know about my experiences
-[https://drive.google.com/file/d/1n4ORpmALxN1VBwX8G7ihVeZkgKRhZuuj/view](https://drive.google.com/file/d/1n4ORpmALxN1VBwX8G7ihVeZkgKRhZuuj/view)
+
 - ⚡**I love cooking in free time**
 
 <h3 align="left">Connect with me:</h3>
