@@ -17,9 +17,7 @@
 
 - 🔭 I’m currently working on project [Product
 management](https://github.com/GauravPandey123webdeveloper/products-Management)
-- 🌱 I’m currently learning **Nodejs, reactjs, mongodb, express, DSA** - 👨‍💻 All
-of my projects are available at
-[https://gauravpandeyportfolio.netlify.app/](https://gauravpandeyportfolio.netlify.app/)
+- 🌱 I’m currently learning **Nodejs, reactjs, mongodb, express, DSA** - 👨‍💻 
 - 💬 Talks about **Nodejs, JavaScript, mongodb, html,css**
 - 📫 How to reach me
 **gp0216716@gmail.com**
